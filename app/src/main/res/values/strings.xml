@@ -18,4 +18,9 @@
 
     <string name="place_not_found">Sorry, no weather data found.</string>
 
+    <!--
+            I'll add my name here
+    -->
+
+    <string name="muhammad_elsayed">Muhammad Elsayed</string>
 </resources>
